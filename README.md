@@ -21,6 +21,8 @@ Estudante de **Ciência da Computação na UFOP** (conclusão prevista: dez/2027
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
 ---
 
@@ -28,6 +30,7 @@ Estudante de **Ciência da Computação na UFOP** (conclusão prevista: dez/2027
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| [**Predição de bilheteria (IC)**](https://github.com/rpsmatheus/predicao-bilheteria-filmes) | Classificação do sucesso de filmes (bilheteria ÷ orçamento) com 3.212 filmes do TMDB/OMDb e comparação de 7 modelos de ML. | Python · pandas · scikit-learn · XGBoost · CatBoost |
 | [**Caixinha App**](https://github.com/rpsmatheus/gerencia_caixinha_republica) | Gestão financeira de repúblicas estudantis: divisão de despesas, controle de pagamentos e fechamento mensal. | React · TypeScript · Node/Express · MongoDB · Docker · CI |
 | [**Sistema de Gerenciamento Comercial**](https://github.com/rpsmatheus/Sistema-de-Gerenciamento-Comercial) | Sistema web de gestão comercial e produtiva para uma empresa de pães artesanais (projeto em equipe). | Python · Django · Docker |
 | [**Visualizador CCO**](https://github.com/rpsmatheus/tp-computacao-grafica-cco) | Visualizador WebGL de árvores arteriais 2D/3D geradas pelo método CCO. | JavaScript · WebGL |
@@ -38,7 +41,9 @@ Estudante de **Ciência da Computação na UFOP** (conclusão prevista: dez/2027
 
 ## 🔬 Pesquisa
 
-**Predição de bilheteria de filmes** — Iniciação Científica (DECOM/UFOP), sob orientação do Prof. Dr. Guilherme Tavares de Assis.
+**[Predição do sucesso de bilheteria de filmes](https://github.com/rpsmatheus/predicao-bilheteria-filmes)** — Iniciação Científica (DECOM/UFOP), sob orientação do Prof. Dr. Guilherme Tavares de Assis.
+
+Classifico o sucesso financeiro de filmes em 5 classes e comparo 7 modelos (de Regressão Logística a XGBoost e CatBoost). Antes da estreia, orçamento e franquia são os atributos mais importantes em todos os modelos, enquanto as notas da crítica e do público não acrescentam informação.
 
 ---
 
