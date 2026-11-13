@@ -33,8 +33,8 @@ Estudante de **Ciência da Computação na UFOP** (conclusão prevista: dez/2027
 | [**Predição de bilheteria (IC)**](https://github.com/rpsmatheus/predicao-bilheteria-filmes) | Classificação do sucesso de filmes (bilheteria ÷ orçamento) com 3.212 filmes do TMDB/OMDb e comparação de 7 modelos de ML. | Python · pandas · scikit-learn · XGBoost · CatBoost |
 | [**Caixinha App**](https://github.com/rpsmatheus/gerencia_caixinha_republica) | Gestão financeira de repúblicas estudantis: divisão de despesas, controle de pagamentos e fechamento mensal. | React · TypeScript · Node/Express · MongoDB · Docker · CI |
 | [**Sistema de Gerenciamento Comercial**](https://github.com/rpsmatheus/Sistema-de-Gerenciamento-Comercial) | Sistema web de gestão comercial e produtiva para uma empresa de pães artesanais (projeto em equipe). | Python · Django · Docker |
-| [**Visualizador CCO**](https://github.com/rpsmatheus/tp-computacao-grafica-cco) | Visualizador WebGL de árvores arteriais 2D/3D geradas pelo método CCO. | JavaScript · WebGL |
-| [**Cluster Sync**](https://github.com/rpsmatheus/tp2-sistemas-distribuidos) | Sistema distribuído com sincronização entre nós, testes de estresse e análise de logs. | Python · Docker Compose |
+| [**Visualizador CCO**](https://github.com/rpsmatheus/visualizador-cco-webgl) | Visualizador WebGL de árvores arteriais 2D/3D geradas pelo método CCO. | JavaScript · WebGL |
+| [**Cluster Sync**](https://github.com/rpsmatheus/cluster-sync) | Exclusão mútua distribuída entre nós via Pub/Sub no Redis, com testes de estresse e análise de logs. | Python · Redis · Docker Compose |
 | [**TDD Money**](https://github.com/rpsmatheus/tdd-pratica-money) | Prática de Test-Driven Development com o clássico exemplo *Money*. | Java · JUnit |
 
 ---
